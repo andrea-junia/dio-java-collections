@@ -48,3 +48,33 @@ c) IDE;
 d) Ano de criação e nome;
 e) Nome, ano de criação e IDE;
 Ao final, exiba as linguagens no console, um abaixo da outra.
+
+### Map 09/10/2022
+
+Exercicio 1
+
+Dada a população estimada de alguns estados do NE brasileiro, faça:
+    Estado = PE - População = 9.616.621
+    Estado = AL - População = 3.351.543
+    Estado = CE - População = 9.187.103
+    Estado = RN - População = 3.534.265
+
+01) Crie um dicionário e relacione os estados e suas populações;
+02) Substitua a população do estado do RN por 3.534.165;
+03) Confira se o estado PB está no dicionário, caso não adicione: PB - 4.039.277;
+04) Exiba a população PE;
+05) Exiba todos os estados e suas populações na ordem que foi  informado;
+06) Exiba os estados e suas populações em ordem alfabética;
+07) Exiba o estado com o menor população e sua quantidade;
+08) Exiba o estado com a maior população e sua quantidade;
+09) Exiba a soma da população desses estados;
+10) Exiba a média da população deste dicionário de estados;
+11) Remova os estados com a população menor que 4.000.000;
+12) Apague o dicionário de estados;
+13) Confira se o dicionário está vazio.
+
+Exercicio 2
+
+Faça um programa que simule um lançamento de dados.
+Lance o dado 100 vezes e armazene.
+Depois, mostre quantas vezes cada valor foi inserido.
